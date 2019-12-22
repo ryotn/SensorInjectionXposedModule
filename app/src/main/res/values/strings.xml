@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SensorInjectionXposedModule</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="service_stop">Service Stop</string>
+    <string name="service_start">Service Start</string>
+    <string name="received_data">No received data</string>
+</resources>
