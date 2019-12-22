@@ -1,4 +1,4 @@
 # SensorInjectionXposedModule
 
-#これは何？
+# これは何？
 センサーを接続したArduinoからAndroidへUSBシリアルでデータを渡し、SensorManagerに割り込ませるXposedモジュールです！
